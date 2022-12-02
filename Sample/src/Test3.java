@@ -26,11 +26,7 @@ public class Test3 {
                 i=-1;
             }
         }
-
-
-//        for(int i=0; i< token.length; i++){
-//            System.out.println(token[i]);
-//        }
+        
 
         // code to find out the number of distinct substring
         HashMap<String, Integer> hm = new HashMap<>();
